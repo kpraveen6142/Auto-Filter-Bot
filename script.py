@@ -1,42 +1,28 @@
 class script(object):
 
 
-    START_MSG = """ <b>Hi {}
+    START_MSG = """ <b>Hi {} I Am Auto Filter Bot 🤖
 
-You can call this as an Auto Filter Bot if you like :D
+I am Private Bot 🤖 To this Channel 👉 @ThiruttuRockers4k
 
-Bot simply search for the files from provided channel according to given query and gives link to those files as buttons!
-
-So no need to add filters for your files or movies from now on!
-
-For more click <i>help</i></b>"""
+For info click <i>help</i></b>"""
 
 
     HELP_MSG = """<b>How to use the bot??</b>
+
 <i>    
-* Add user account to your channel !
 
-* Add bot to group with admin rights.
+* I am Private Use only My Channel 👉 @ThiruttuRockers4k
 
-* Once deployed and bot is started, send a message to channel (must do step)
-
-* Bot will work now :)
-
-No need add each filter again!
-Bot will automatically search for your file and give links to that!
 </i>
+<b>〽️ Powered by @vijay6142</b>"""
 
-<b>© @TroJanzHEX</b>"""
 
-
-    ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot</b>
+    ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot V1</b>
     
-⭕️<b>Creater :</b> @TroJanzHEX
-
+⭕️<b>Creater :</b> @vijay6142
 ⭕️<b>Language :</b> <code>Python3</code>
-
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
-
-⭕️<b>Tutorial Video :</b> <a href='https://youtu.be/KQVYQAOsFYY'>Video Link</a> 
+⭕️<b>Developed by:</b> <a href='https://t.me/selfiebd'>Developer</a> 
 
 """
