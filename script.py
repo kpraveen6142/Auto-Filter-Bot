@@ -15,7 +15,6 @@ For info click <i>help</i></b>"""
 
 
     ABOUT_MSG = """⭕️<b>Version : Auto Filter Bot V1</b>
-    
 ⭕️<b>My Name :</b> Thalapathy Vj
 ⭕️<b>Language :</b> <code>Python3</code>
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
