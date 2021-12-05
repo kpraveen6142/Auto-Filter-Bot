@@ -14,7 +14,7 @@ For info click <i>help</i></b>"""
 <b>〽️ Powered by @vijay6142</b>"""
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot V1</b>
+    ABOUT_MSG = """⭕️<b>Version : Auto Filter Bot V1</b>
     
 ⭕️<b>My Name :</b> Thalapathy Vj
 ⭕️<b>Language :</b> <code>Python3</code>
