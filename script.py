@@ -9,11 +9,8 @@ For info click <i>help</i></b>"""
 
 
     HELP_MSG = """<b>How to use the bot??</b>
-
 <i>    
-
 * I am Private Use only My Channel 👉 @ThiruttuRockers4k
-
 </i>
 <b>〽️ Powered by @vijay6142</b>"""
 
